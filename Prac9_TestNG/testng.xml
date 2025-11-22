@@ -1,0 +1,30 @@
+
+<suite name="Prac9Suite">
+  <test name="SelectedFirstMethodsTest">
+    <classes>
+      <class name="package_1.ClassA">
+        <methods>
+          <include name="testMethod1"/>
+        </methods>
+      </class>
+
+      <class name="package_1.ClassB">
+        <methods>
+          <include name="testMethod1"/>
+        </methods>
+      </class>
+
+      <class name="package_2.ClassC">
+        <methods>
+          <include name="testMethod1"/>
+        </methods>
+      </class>
+
+      <class name="package_2.ClassD">
+        <methods>
+          <include name="testMethod1"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

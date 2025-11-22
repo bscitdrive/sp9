@@ -1,0 +1,7 @@
+<suite name="enable test" verbose="1">
+	<test name="Enable or Disable test">
+		<classes>
+			<class name="enablepkg.EnableTest"/>
+		</classes>
+	</test>
+</suite>
