@@ -1,3 +1,7 @@
+/*
+Create two packages in TestNg project, each package containing two classes. Each class will contain two test methods. 
+Create and execute a TestNG test suite(testng.xml) to include first test method from each class.
+*/
 package package_1;
 
 import org.testng.annotations.Test;
