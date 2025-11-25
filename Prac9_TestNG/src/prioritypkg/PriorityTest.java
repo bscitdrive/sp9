@@ -1,3 +1,6 @@
+/*
+Write a TestNg script and configure xml file to prioritize test methods.
+*/
 package prioritypkg;
 
 import org.testng.annotations.Test;
