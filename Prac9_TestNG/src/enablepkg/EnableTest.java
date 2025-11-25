@@ -1,3 +1,8 @@
+/*
+Create TestNG class containing three test methods using test annotation 
+out of which any two methods are enabled and remaining method is disabled.
+Use appropriate attributes of test annotation.
+*/
 package enablepkg;
 
 import org.testng.annotations.Test;
