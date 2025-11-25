@@ -1,3 +1,6 @@
+/*
+Create a test class with all kinds of Before and After annotations and execute it using a testng.xml.
+*/
 package practical;
 
 import org.testng.annotations.AfterSuite;
