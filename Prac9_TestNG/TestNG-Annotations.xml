@@ -1,0 +1,35 @@
+<suite name="Annotation Suite" verbos="1">
+
+	<test name="First Testcase">
+		<classes>
+			<class name="practical.Annotation_Demo">
+				<methods>
+					<include name="TestMethod_1"></include>				
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Second Testcase">
+		<classes>
+			<class name="practical.Annotation_Demo">
+				<methods>
+					<include name="TestMethod_2"></include>				
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Third Testcase">
+		<classes>
+			<class name="practical.Annotation_Demo">
+				<methods>
+					<include name="TestMethod_3"></include>				
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+
+</suite>
